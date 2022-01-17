@@ -1,0 +1,1 @@
+input('vad är kolokan')
