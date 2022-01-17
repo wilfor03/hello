@@ -1,4 +1,12 @@
-print("hej på er EE20")
-print("steng ner discord nu så fortsätter vi")
 
-neme = input("bengt")
+tal1 = 12023
+tal2 = float(input("skriv ett tal:"))
+
+summa = tal1 * tal2
+print(f"summa av {tal1} * {tal2} blir{summa}")
+summa = tal1 + tal2
+print(f"summan blir {summa}")
+summa = tal1 - tal2
+print(f"summan blir {summa}")
+summa = tal1 / tal2
+print(f"summan blir {summa}")
